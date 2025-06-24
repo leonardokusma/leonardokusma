@@ -1,4 +1,4 @@
-## OLÁ!!! eu sou o Leonardo Kusma Estudante de Engenharia De Software!
+## OLÁ!!! Eu sou o Leonardo Kusma Estudante de Engenharia De Software!
 
 - 🔭 Estou em busca de uma oportunidade
 - 🌱 Estudando java spring
