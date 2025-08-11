@@ -1,8 +1,10 @@
 
 ## OLÁ!!! Eu sou o Leonardo Kusma 👋 Estudante de Engenharia de Software!
+  Profissional focado em construção de aplicações desde o começo, aplicando conceitos de Engenharia de Requisitos, aplicando conceitos de código limpo, Arquitetura de Software e trabalhando de maneira fullStack.
+- Java spring, spring boot;
+- Estudando Node;
+- Estudando React;
 
-- 🔭 Estou em busca de uma oportunidade
-- 🌱 Estudando Java Spring
 
 <div style="display: flex;  align-items: start; justify-content: space-between; flex-wrap: wrap;">
   <img height = "180em" src="https://github-readme-stats.vercel.app/api?username=leonardokusma&theme=chartreuse-dark&show_icons=true&include_all_commits=true"/>
